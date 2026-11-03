@@ -21,8 +21,13 @@ The following flowchart illustrates the complete working process of the Banking 
 
 ![Banking Management System Flowchart](mermaid-diagram.png)
 
-    ![Banking Management System](Screenshot%202026-11-03%20131956.png)
-    ![Banking System Output](Screenshot%202026-11-03%20132044.png)
+![Banking Management System](Screenshot%202026-11-03%20131956.png)
+
+![Banking System Output](Screenshot%202026-11-03%20132044.png)
+
+
+    
+    
 
 ## Files in this project
 
