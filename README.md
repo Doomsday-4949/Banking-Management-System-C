@@ -14,6 +14,8 @@ A console-based college mini project written in standard C. It is designed aroun
 8. Close an account (only when its balance is zero)
 9. View transaction history
 10. Save account records between program runs
+    ![Banking Management System](Screenshot%202026-11-03%20131956.png)
+    ![Banking System Output](Screenshot%202026-11-03%20132044.png)
 
 ## Files in this project
 
